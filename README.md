@@ -1,2 +1,7 @@
 # SPA-Portifolio
-Portfolio de desenvolvedor 
+Portfolio generico para desenvolvedores
+
+
+## Tarefas
+controle dessa tarefa sera feito no github
+
